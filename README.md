@@ -22,6 +22,7 @@ https://www.bilibili.com/video/BV1Bx411d714?spm_id_from=333.1007.top_right_bar_w
 18. chapter20: Frictions
 19. chapter21: Adverse Selection
 20. chapter22: Bank
-21. chapter23:
-22. chapter24:
-23. chapter25:
+21. chapter23: Arbitrage
+22. chapter24: Risk
+23. chapter25: 
+ 
